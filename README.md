@@ -18,5 +18,4 @@ It features **dynamic filtering**, **customizable KPIs**, and **beautiful data v
 - Pandas for data manipulation
 - Plotly for interactive charts
 - OpenPyXL for Excel export
-git clone https://github.com/your-username/interactive-sales-dashboard.git
-cd interactive-sales-dashboard
+git clone https://github.com/Esmo777/interactive-sales-dashboard.git
